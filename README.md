@@ -80,3 +80,5 @@ The project helped me better understand:
 One of the most important lessons was understanding how easy it is to accidentally create data leakage or invalidate evaluation.
 
 This project was less about chasing leaderboard scores and more about learning how machine learning pipelines actually behave in practice.
+
+Kaggle: https://www.kaggle.com/code/iriyablood/titanic-machine-learning-from-disaster/notebook
